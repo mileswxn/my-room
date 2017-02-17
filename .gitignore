@@ -1,0 +1,15 @@
+tmp/
+coverage/
+bower_components/
+node_modules/
+npm-debug.log
+server/log/*.log
+user.log
+log/
+
+.awspublish-*
+.DS_Store
+*.iml
+.svn
+.idea
+.Trashes
